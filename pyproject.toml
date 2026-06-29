@@ -1,0 +1,9 @@
+[project]
+name = "apify-rapidapi-marketplace-api-example"
+version = "1.0.0"
+description = "Example client for the RapidAPI Marketplace API on Apify."
+requires-python = ">=3.11"
+dependencies = [
+    "apify-client>=3.0.0",
+    "python-dotenv>=1.0.0",
+]
