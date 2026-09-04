@@ -212,4 +212,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 This example is provided as-is for demonstrating the RapidAPI Marketplace API on Apify. Use it as a starting point for your own integrations.
 
-Last Updated: 2026.09.03
+Last Updated: 2026.09.04
